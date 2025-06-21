@@ -10,7 +10,7 @@ Este projeto busca gerar insights que ajudem a equipe de marketing da empresa a 
 
 ## 2. Objetivo do projeto
 
-seguintes perguntas de negócio foram levantadas pelos *stakeholders*:
+Embasado na análise dos dados, as seguintes perguntas de negócio devem ser respondidas aos *stakeholders*
 
 - Como os membros anuais e os usuários casuais utilizam as bicicletas?
 - Por que os usuários casuais comprariam assinaturas anuais?
