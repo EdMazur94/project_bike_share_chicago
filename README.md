@@ -19,8 +19,11 @@ Embasado na análise dos dados, as seguintes perguntas de negócio devem ser res
 ## 3. Base de dados
 
 **Fonte** https://divvy-tripdata.s3.amazonaws.com/index.html;
+
 **Período de Análise:** abril de 2024 e abril de 2025;
+
 **Total de -Registros** 6.150.909 viagens; 
+
 **Formato** arquivos separados mensalmente em CSV
 
 **Campos utilizdos para análise**: Os seguintes campos foram utilizados para as análises efetuadas neste projeto:
