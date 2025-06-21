@@ -1,1 +1,1 @@
-# Compartilhamento de Bicicletas em Chicago: Como transformar usuários casuais em assinantes. 
+# Compartilhamento de bicicletas em Chicago: Como transformar usuários casuais em assinantes. 
