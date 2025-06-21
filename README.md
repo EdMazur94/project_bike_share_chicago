@@ -4,13 +4,13 @@
 
 ## 1. Cenário
   
-Uma empresa de compartilhamento de bicicletas com operação na cidade Chicago com operação em tempo integral e que oferece diferentes tipos de bicicleta e de contratação do serviço, disponibliza os dados de suas viagens entre os meses de **04/2024 e 04/2025**
+Uma empresa fictícia de compartilhamento de bicicletas que opera 24 horas por dia na cidade de Chicago, oferecendo diferentes tipos de bicicleta e modalidades de  contratação do seu serviço. Com o objetivo de analisar o comportamento de seus usuários, a empresa disponiblizou os dados de suas viagens entre os meses de **abril de 2024 e abril de 2025** 
 
-Com a base em dados em mãos este projeto tem como objetivo trazer insights para a área de marketing da empresa, de modo que possa compreender as diferenças no comportamento de uso entre usuários casuais e membros anuais. A partir desta análise, propor estratégias de marketing que incentivem a conversão de usuário casuais em assinantes.
+Este projeto busca gerar insights que ajudem a equipe de marketing da empresa a compreender as diferenças no comportamento de uso entre usuários casuais e membros anuais, e propor estratégias de marketing que incentivem a conversão de usuários eventuais em assinantes.
 
 ## 2. Objetivo do projeto
 
-As perguntas levantadas pelos *stakeholders* são as seguintes:
+seguintes perguntas de negócio foram levantadas pelos *stakeholders*:
 
 - Como os membros anuais e os usuários casuais utilizam as bicicletas?
 - Por que os usuários casuais comprariam assinaturas anuais?
@@ -18,7 +18,23 @@ As perguntas levantadas pelos *stakeholders* são as seguintes:
 
 ## 3. Base de dados
 
-A base de dados para este projeto está disponível para download em período mensal em: https://divvy-tripdata.s3.amazonaws.com/index.html. 
+**Fonte** https://divvy-tripdata.s3.amazonaws.com/index.html;
+**Período de Análise:** abril de 2024 e abril de 2025;
+**Total de -Registros** 6.150.909 viagens; 
+**Formato** arquivos separados mensalmente em CSV
 
-O período estudado é referente ao uso das bicicletas entre **04/2024 e 04/2025**
+**Campos utilizdos para análise**: Os seguintes campos foram utilizados para as análises efetuadas neste projeto:
+
+```
+- rideable_type: modelo da bicicleta utilizada; 
+- started_at: hora e data de ínicio do uso da bicicleta;
+- ended_at: hora e data de finalização do uso da bicicleta;
+- start_lat: latitude de ínicio do uso da bicicleta; 
+- start_lng: longitide de ínicio do uso da bicicleta;
+- end_lat: latitude de finalização de uso da bicicleta;
+- end_lng: longitude de finalização de uso da bicicleta; 
+- member_casual: tipo de usuário da bicicleta.
+```
+## 4. Metodologia
+
 
