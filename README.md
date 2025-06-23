@@ -40,4 +40,18 @@ Embasado na análise dos dados, as seguintes perguntas de negócio devem ser res
 ```
 ## 4. Metodologia
 
+**Compreensão do Desafio de Negócio**
+
+Entender o impacto que gera cada tipo de cliente foi importante, além de reunir todas as informações e 
+
+### 4.1 Estruturação da Abordagem Analítica
+
+Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do projeto foi estruturado em  seis etapas principais:
+
+**Perguntar:** Quais são os 
+
+**Tratamento e Preparação dos Dados**
+**Análise Exploratória**
+**Visualização**
+**Ações Recomendadas**
 
