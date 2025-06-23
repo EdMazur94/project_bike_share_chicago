@@ -62,7 +62,8 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 ### 5.1 Visão Geral
 
 - Todos os 6.150.909 registros foram mantidos na análise; 
-- 
-
+- 63,5% dos usuários são assinantes, enquanto 36,5% são usuários casuais;
+- Embora a média de uso dos usuários casuais seja pouco maior que 1/3 do toal, a média de tempo de cada viagem é o dobro (24 min);
+- G
 
 
