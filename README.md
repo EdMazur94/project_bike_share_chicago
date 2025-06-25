@@ -44,12 +44,12 @@ Embasado na análise dos dados, as seguintes perguntas de negócio devem ser res
 
 Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do projeto foi estruturado em  seis etapas principais:
 
-- Perguntar:** Entender clarmaente as perguntas que precisam ser respondidas por meio desta análise. Levantar novas questões alinhadas às demandas dos *stakeholders* 
-- Preparar:** Coletar os dados disponíveis, compreender as suas características e avaliar e qual será a ferramenta mais adequada para a análise.
-- Processar:** Limpar, transformar e coletar dados com consistência e qualidade.
-- Analisar:** Criar consultas na base para explorar os daods e buscar respostas para as perguntas formuladas.
-- Compartilhar:** Comunicar os achados por meio de visualizações e de narrativa, visando facilitar o entendimento por diferentes perfis de público
-- Agir:** Gerar recomendações práticas baseadas em dados. 
+- **Perguntar:** Entender clarmaente as perguntas que precisam ser respondidas por meio desta análise. Levantar novas questões alinhadas às demandas dos *stakeholders* 
+- **Preparar:** Coletar os dados disponíveis, compreender as suas características e avaliar e qual será a ferramenta mais adequada para a análise.
+- **Processar:** Limpar, transformar e coletar dados com consistência e qualidade.
+- **Analisar:** Criar consultas na base para explorar os daods e buscar respostas para as perguntas formuladas.
+- **Compartilhar:** Comunicar os achados por meio de visualizações e de narrativa, visando facilitar o entendimento por diferentes perfis de público
+- **Agir:** Gerar recomendações práticas baseadas em dados. 
 
 ### 4.2 Ferramentas Utiilzadas
 
@@ -68,6 +68,8 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 - As estações climáticas afetam o uso do serviço para ambas as modalidades.
 
 ### 5.2 Comparação do Comportamento dos Usuários
+
+
 
 
 
