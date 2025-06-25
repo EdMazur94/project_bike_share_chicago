@@ -44,12 +44,12 @@ Embasado na análise dos dados, as seguintes perguntas de negócio devem ser res
 
 Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do projeto foi estruturado em  seis etapas principais:
 
-**- Perguntar:** Entender clarmaente as perguntas que precisam ser respondidas por meio desta análise. Levantar novas questões alinhadas às demandas dos *stakeholders* 
-**- Preparar:** Coletar os dados disponíveis, compreender as suas características e avaliar e qual será a ferramenta mais adequada para a análise.
-**- Processar:** Limpar, transformar e coletar dados com consistência e qualidade.
-**- Analisar:** Criar consultas na base para explorar os daods e buscar respostas para as perguntas formuladas.
-**- Compartilhar:** Comunicar os achados por meio de visualizações e de narrativa, visando facilitar o entendimento por diferentes perfis de público
-**- Agir:** Gerar recomendações práticas baseadas em dados. 
+- Perguntar:** Entender clarmaente as perguntas que precisam ser respondidas por meio desta análise. Levantar novas questões alinhadas às demandas dos *stakeholders* 
+- Preparar:** Coletar os dados disponíveis, compreender as suas características e avaliar e qual será a ferramenta mais adequada para a análise.
+- Processar:** Limpar, transformar e coletar dados com consistência e qualidade.
+- Analisar:** Criar consultas na base para explorar os daods e buscar respostas para as perguntas formuladas.
+- Compartilhar:** Comunicar os achados por meio de visualizações e de narrativa, visando facilitar o entendimento por diferentes perfis de público
+- Agir:** Gerar recomendações práticas baseadas em dados. 
 
 ### 4.2 Ferramentas Utiilzadas
 
@@ -61,9 +61,19 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 
 ### 5.1 Visão Geral
 
-- Todos os 6.150.909 registros foram mantidos na análise; 
-- 63,5% dos usuários são assinantes, enquanto 36,5% são usuários casuais;
-- Embora a média de uso dos usuários casuais seja pouco maior que 1/3 do toal, a média de tempo de cada viagem é o dobro (24 min);
-- G
+- Aproximadamente 63,5% dos usuários são assinantes, enquanto 36,5% são usuários casuais; 
+- O tempo médio por viagem é de 12 minutos para assinantes e 24 minutos para casuais;
+- A maior concentração de viagens para assinantes ocorrem durante a semana e em horários de deslocamento padrão. Já para os casuais, aos finais de semana e no final da tarde;
+- O modelo elétrico é o mais usado por ambos os grupos;
+- As estações climáticas afetam o uso do serviço para ambas as modalidades.
+
+### 5.2 Comparação do Comportamento dos Usuários
+
+
+
+
+
+
+  
 
 
