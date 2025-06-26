@@ -69,12 +69,17 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 
 ### 5.2 Comparação do Comportamento dos Usuários
 
-- Divisão do universo de análise, baseado nos dois tipos de usuários das bicicletas:
+Foi criado um dashboard que será disponibilizado com os seguintes resultados da Análise
+
+- **Divisão do universo de análise, baseado nos dois tipos de usuários das bicicletas:**
 
 ![image](https://github.com/user-attachments/assets/71b83bb2-225d-459e-81a7-77871909d134)
 
+- **Tempo médio e opção de bicicletas**
 
-- O comportamento de uso entre assinantes e casuais difere entre dias de semana e finais de semana:
+![image](https://github.com/user-attachments/assets/111b3e66-5cbb-4262-95c3-20f4bee46981)
+
+- **O comportamento de uso entre assinantes e casuais difere entre dias de semana e finais de semana:** 
 
 ![image](https://github.com/user-attachments/assets/d3cbc3a5-2508-4793-b864-c880b405dcc9)
 
