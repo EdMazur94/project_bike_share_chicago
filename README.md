@@ -71,7 +71,8 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 
 - Divisão do universo de análise, baseado nos dois tipos de usuários das bicicletas:
 
-![image](https://github.com/user-attachments/assets/00a5afdf-4908-4a0a-b8b1-fc6267f1af07)
+![image](https://github.com/user-attachments/assets/71b83bb2-225d-459e-81a7-77871909d134)
+
 
 - O comportamento de uso entre assinantes e casuais difere entre dias de semana e finais de semana:
 
