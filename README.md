@@ -83,12 +83,31 @@ Foi criado um dashboard que será disponibilizado com os seguintes resultados da
 
 ![image](https://github.com/user-attachments/assets/d3cbc3a5-2508-4793-b864-c880b405dcc9)
 
+- **A sazonalidade impacta o uso em ambos os grupos de clientes:**
 
+![image](https://github.com/user-attachments/assets/70986fc6-0bbd-440c-9719-d87ec823cbeb)
 
+### 6. Recomendações Estratégicas
 
+Com base nos comportamentos de cada grupo de clientes constatados na análise, as recomendações abaixo podem contribuir para a conversão de clientes casuais em assinantes:
 
+- **Campanhas promocionais aos finais de semana**: Considerando a grande procura aos finais de semana pelos usuários casuais, pode ser criado um *plano gratuito de 03 dias* ou *planos para uso ilimitado no final de semana*. Isso gera a experiência de ser assinante, e uma possível conversão para este público;
 
+- **Planos para turistas**: Criação de modalidade de assinatura a curto prazo voltada para visitantes da cidade; 
 
+- **Notificações no Aplicativo**: Incluir mensagens e notificações dentro do aplicativo com comparações sobre a economia na adesão do plano por assinatura.
+
+- **Incentivos no horário de pico**: Aproveitar o horário de pico do uso de bicicletas pelos casuais o oferecer recompensas pelo uso das mesmas com frequência pode estimular o uso regular e consequentemente, a adesão. 
+
+-**Sazonalidade Climática**: O uso das bicicletas caí significativamente nos meses mais frios. Nestes períodos, aplicar estratégias de retenção (desafios, pontos, descontos para uso regular).
+
+### 7. Limitações da Análise
+
+- **Ausência de dados do usuário:** As informações disponíveis não incluem idade, gênero ou profissão dos usuários. Isso limita a personalização de campanhas específicas para grupos que possam gerar mais relevância na conversão para assinantes;
+  
+- **Informação sobre motivo de viagem:** As interpretações sobre o uso rotineiro ou lazer foram feitas com base em padrões de horários e dia da semana. Não é possível saber exatamente qual é o motivo de cada um dos deslocamentos; 
+
+- **Informações Climáticas Específicas**: Apesar da análise do uso em detrimento da estação do ano, não se têm dados robustos sobre períodos chuvosos ou com intempéries que possam impactar significativamente no uso da bicicleta. 
 
   
 
