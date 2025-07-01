@@ -1,10 +1,10 @@
 # Como Transformar Usuários Casuais em Assinantes: Uma Análise de Dados do Sistema de Bicicletas Compartilhadas em Chicago
 
-*Pensar em texto introdutório aqui*
+*O projeto em questão foi desenvolvido como parte do programa de Certificação Google Data Analytics Certificate. O objetivo é a aplicação prática da análise, extração, limpeza e geração de insights voltados a um problema realista.*
 
 ## 1. Cenário
   
-Uma empresa fictícia de compartilhamento de bicicletas que opera 24 horas por dia na cidade de Chicago, oferecendo diferentes tipos de bicicleta e modalidades de  contratação do seu serviço. Com o objetivo de analisar o comportamento de seus usuários, a empresa disponiblizou os dados de suas viagens entre os meses de **abril de 2024 e abril de 2025** 
+Uma empresa fictícia de compartilhamento de bicicletas que opera 24 horas por dia na cidade de Chicago, oferece diferentes tipos de bicicleta e modalidades de  contratação do seu serviço. Com o objetivo de analisar o comportamento de seus usuários, a empresa disponiblizou os dados de suas viagens entre os meses de **abril de 2024 e abril de 2025** 
 
 Este projeto busca gerar insights que ajudem a equipe de marketing da empresa a compreender as diferenças no comportamento de uso entre usuários casuais e membros anuais, e propor estratégias de marketing que incentivem a conversão de usuários eventuais em assinantes.
 
@@ -63,13 +63,11 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 
 - Aproximadamente 63,5% dos usuários são assinantes, enquanto 36,5% são usuários casuais; 
 - O tempo médio por viagem é de 12 minutos para assinantes e 24 minutos para casuais;
-- A maior concentração de viagens para assinantes ocorrem durante a semana e em horários de deslocamento padrão. Já para os casuais, aos finais de semana e no final da tarde;
+- A maior concentração de viagens para assinantes ocorre durante a semana e em horários de deslocamento padrão. Já para os casuais, aos finais de semana e no final da tarde;
 - O modelo elétrico é o mais usado por ambos os grupos;
 - As estações climáticas afetam o uso do serviço para ambas as modalidades.
 
 ### 5.2 Comparação do Comportamento dos Usuários
-
-Foi criado um dashboard que será disponibilizado com os seguintes resultados da Análise
 
 - **Divisão do universo de análise, baseado nos dois tipos de usuários das bicicletas:**
 
@@ -109,6 +107,10 @@ Com base nos comportamentos de cada grupo de clientes constatados na análise, a
 
 - **Informações Climáticas Específicas**: Apesar da análise do uso em detrimento da estação do ano, não se têm dados robustos sobre períodos chuvosos ou com intempéries que possam impactar significativamente no uso da bicicleta. 
 
-  
+### 8. Conclusão
 
+A análise dos dados do sistema de Bicicletas Compartilhadas em Chicago permitiu identificar padrões distintos de comportamento entre os assinantes e usuários casuais. 
 
+Fica evidente que a utilização das bicicletas é mais recorrente pelos assinantes e em especial em dias úteis e nos horários de pico, demonstrando que o sistema é atuante em mobilidade. Já para os usuários casuais, o uso é mais frequente em finais de semana e ao fim da tarde, demonstrando um perfil de uso para lazer ou turismo. 
+
+As diferenças aqui citadas abrem oportunidades estratégicas para a empresa desenvolver ações para a conversão dos usuários casuais para assinantes. A sugestão de campanhas promocionais segmentadas a este público, planos flexíveis e propagandas no app são os pontos focais para a conversão destes ciclistas para assinantes. 
