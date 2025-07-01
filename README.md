@@ -99,7 +99,7 @@ Com base nos comportamentos de cada grupo de clientes constatados na análise, a
 
 - **Incentivos no horário de pico**: Aproveitar o horário de pico do uso de bicicletas pelos casuais o oferecer recompensas pelo uso das mesmas com frequência pode estimular o uso regular e consequentemente, a adesão. 
 
--**Sazonalidade Climática**: O uso das bicicletas caí significativamente nos meses mais frios. Nestes períodos, aplicar estratégias de retenção (desafios, pontos, descontos para uso regular).
+- **Sazonalidade Climática**: O uso das bicicletas caí significativamente nos meses mais frios. Nestes períodos, aplicar estratégias de retenção (desafios, pontos, descontos para uso regular).
 
 ### 7. Limitações da Análise
 
