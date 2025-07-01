@@ -85,7 +85,7 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 
 ![image](https://github.com/user-attachments/assets/70986fc6-0bbd-440c-9719-d87ec823cbeb)
 
-### 6. Recomendações Estratégicas
+## 6. Recomendações Estratégicas
 
 Com base nos comportamentos de cada grupo de clientes constatados na análise, as recomendações abaixo podem contribuir para a conversão de clientes casuais em assinantes:
 
@@ -99,7 +99,7 @@ Com base nos comportamentos de cada grupo de clientes constatados na análise, a
 
 - **Sazonalidade Climática**: O uso das bicicletas caí significativamente nos meses mais frios. Nestes períodos, aplicar estratégias de retenção (desafios, pontos, descontos para uso regular).
 
-### 7. Limitações da Análise
+## 7. Limitações da Análise
 
 - **Ausência de dados do usuário:** As informações disponíveis não incluem idade, gênero ou profissão dos usuários. Isso limita a personalização de campanhas específicas para grupos que possam gerar mais relevância na conversão para assinantes;
   
@@ -107,7 +107,7 @@ Com base nos comportamentos de cada grupo de clientes constatados na análise, a
 
 - **Informações Climáticas Específicas**: Apesar da análise do uso em detrimento da estação do ano, não se têm dados robustos sobre períodos chuvosos ou com intempéries que possam impactar significativamente no uso da bicicleta. 
 
-### 8. Conclusão
+## 8. Conclusão
 
 A análise dos dados do sistema de Bicicletas Compartilhadas em Chicago permitiu identificar padrões distintos de comportamento entre os assinantes e usuários casuais. 
 
