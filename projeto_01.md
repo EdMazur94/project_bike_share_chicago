@@ -57,7 +57,7 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 - Excel;
 - Google Sheets.
 
-### 4.3 
+### 4.3 Consultas SQL
 
 As consultas SQL criadas para esta análise estão disponíveis neste [arquivo complementar](./sql.md)
 
