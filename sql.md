@@ -23,4 +23,24 @@ CREATE TABLE trips_07_2025 (
   end_lng DOUBLE PRECISION,
   member_casual TEXT
 );
+```
+## 2. Consolidação dos Meses na Tabela all_trips
+
+```sql
+-- Inserção dos dados mensais na tabela consolidada
+INSERT INTO all_trips SELECT * FROM trips_04_2024;
+INSERT INTO all_trips SELECT * FROM trips_05_2024;
+INSERT INTO all_trips SELECT * FROM trips_06_2024;
+INSERT INTO all_trips SELECT * FROM trips_07_2024;
+INSERT INTO all_trips SELECT * FROM trips_08_2024;
+INSERT INTO all_trips SELECT * FROM trips_09_2024;
+INSERT INTO all_trips SELECT * FROM trips_10_2024;
+INSERT INTO all_trips SELECT * FROM trips_11_2024;
+INSERT INTO all_trips SELECT * FROM trips_12_2024;
+INSERT INTO all_trips SELECT * FROM trips_01_2025;
+INSERT INTO all_trips SELECT * FROM trips_02_2025;
+INSERT INTO all_trips SELECT * FROM trips_03_2025;
+INSERT INTO all_trips SELECT * FROM trips_04_2025;
+```
+
 
