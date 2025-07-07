@@ -59,7 +59,7 @@ Seguindo o proposto no curso *Google Data Analytics Certificate*, o estudo do pr
 
 ### 4.3 
 
-As consultas SQL criadas para esta análise estão disponíveis neste [arquivo complementar](./consultas_sql.md)
+As consultas SQL criadas para esta análise estão disponíveis neste [arquivo complementar](./sql.md)
 
 ## 5. Análise Exploratória e Resultados
 
