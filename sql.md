@@ -93,6 +93,13 @@ GROUP BY
 ORDER BY
 	member_casual;
 ```
-
+- Média de tempo de viagem por tipo de usuário:
+```sql
+SELECT
+	member_casual,
+	ROUND(AVG(EXTRACT(EPOCH FROM(ended_at - started_at))/60),2) as ride_length
+FROM all_trips
+	GROUP BY member_casual
+```
 
 
