@@ -26,7 +26,6 @@ CREATE TABLE trips_07_2025 (
 ## 2. Consolidação dos Meses na Tabela all_trips
 
 ```sql
--- Inserção dos dados mensais na tabela consolidada
 INSERT INTO all_trips SELECT * FROM trips_04_2024;
 INSERT INTO all_trips SELECT * FROM trips_05_2024;
 INSERT INTO all_trips SELECT * FROM trips_06_2024;
