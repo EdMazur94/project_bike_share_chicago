@@ -1,6 +1,6 @@
 # SQL Queries do Projeto "_NAME_"
 
-Criação das tabelas para trazer o CSV para o PgAdmin4:
+- Criação das tabelas para trazer o CSV para o PgAdmin4:
 
 ```sql 
 
@@ -19,6 +19,51 @@ end_lat DOUBLE PRECISION,
 end_lng DOUBLE PRECISION,
 member_casual TEXT
 );
+
+```
+
+- Concatenação dos meses utilizados
+
+```sql
+
+INSERT INTO all_trips
+SELECT * FROM trips_04_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_05_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_06_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_07_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_08_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_09_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_10_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_11_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_12_2024;
+
+INSERT INTO all_trips
+SELECT * FROM trips_01_2025;
+
+INSERT INTO all_trips
+SELECT * FROM trips_02_2025;
+
+INSERT INTO all_trips
+SELECT * FROM trips_03_2025;
+
+INSERT INTO all_trips
+SELECT * FROM trips_04_2025;
 
 ```
 
