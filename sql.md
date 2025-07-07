@@ -64,7 +64,15 @@ SELECT * FROM trips_03_2025;
 
 INSERT INTO all_trips
 SELECT * FROM trips_04_2025;
-
 ```
+- Contagem dos Membros
+
+```sql
+SELECT member_casual,
+COUNT(*) AS total_usuarios
+FROM all_trips
+GROUP BY member_casual
+```
+
 
 
