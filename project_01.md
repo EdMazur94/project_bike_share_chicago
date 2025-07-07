@@ -55,7 +55,7 @@ Following the process learned in the *Google Data Analytics Certificate*, this p
 - Excel  
 - Google Sheets  
 
-### 4.3
+### 4.3 SQL Queries
 
 All SQL queries used in this analysis are available in this [complementary file](./sql_eng.md)
 
