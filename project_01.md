@@ -57,7 +57,7 @@ Following the process learned in the *Google Data Analytics Certificate*, this p
 
 ### 4.3
 
-All SQL queries used in this analysis are available in this [complementary file](./sql.md)
+All SQL queries used in this analysis are available in this [complementary file](./sql_eng.md)
 
 ## 5. Exploratory Analysis & Results
 
