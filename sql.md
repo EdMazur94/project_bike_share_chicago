@@ -1,6 +1,6 @@
-# Consultas SQL – Projeto Cyclistic Bike Sharing
+# Consultas SQL – Como Transformar Usuários Casuais em Assinantes: Uma Análise de Dados do Sistema de Bicicletas Compartilhadas em Chicago
 
-Este arquivo reúne as principais consultas SQL utilizadas durante a análise exploratória do sistema de bicicletas compartilhadas da cidade de Chicago, no contexto do projeto *Cyclistic*. As consultas foram desenvolvidas no PgAdmin 4 utilizando PostgreSQL.
+Este arquivo reúne as principais consultas SQL utilizadas durante a análise exploratória do sistema de bicicletas compartilhadas da cidade de Chicago. As consultas foram desenvolvidas no PgAdmin 4 utilizando PostgreSQL.
 
 ---
 
