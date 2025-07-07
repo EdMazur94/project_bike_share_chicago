@@ -7,7 +7,6 @@ Este arquivo reúne as principais consultas SQL utilizadas durante a análise ex
 ##  1. Criação da Tabela (Importação do CSV)
 
 ```sql
--- Criação da tabela base para importar os dados de julho de 2025
 CREATE TABLE trips_07_2025 (
   ride_id TEXT,
   rideable_type TEXT,
