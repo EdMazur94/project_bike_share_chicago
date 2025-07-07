@@ -74,5 +74,25 @@ FROM all_trips
 GROUP BY member_casual
 ```
 
+- Média de viagens por dia separado por tipo de usuário:
+```sql
+SELECT
+	member_casual,
+	ROUND(AVG(total_rides)::numeric) AS avg_rides_per_day
+FROM(
+	SELECT
+	started_at::DATE AS date_travel,
+	member_casual,
+	COUNT(*) AS total_rides
+FROM all_trips
+GROUP BY started_at::DATE, 
+		member_casual
+ORDER BY date_travel) AS daily_counts
+GROUP BY
+	member_casual
+ORDER BY
+	member_casual;
+```
+
 
 
