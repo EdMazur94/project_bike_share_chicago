@@ -2,7 +2,7 @@
 
 Criação das tabelas para trazer o CSV para o PgAdmin4:
 
-´´´sql 
+```sql 
 
 CREATE TABLE trips_07_2025 (
 ride_id TEXT,
