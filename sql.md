@@ -102,4 +102,15 @@ FROM all_trips
 	GROUP BY member_casual
 ```
 
+- Distribuição do uso das bicicletas por hora do dia e por tipo de usuário:
+
+```sql 
+SELECT
+  EXTRACT(HOUR FROM started_at) AS hour,
+  member_casual,
+  COUNT(*) AS total
+FROM all_trips
+GROUP BY hour, member_casual
+ORDER BY hour;
+```
 
