@@ -79,6 +79,11 @@ All SQL queries used in this analysis are available in this [complementary file]
 
 ![image](https://github.com/user-attachments/assets/3d47641a-c460-4a26-9ef1-e5359fd9be55)
 
+- **Horários frequentes de uso das bicicletas**
+
+![image](https://github.com/user-attachments/assets/69b021bc-058d-4d8b-870a-41da4eb53586)
+
+
 - **Weekly usage behavior between members and casuals:** 
 
 ![image](https://github.com/user-attachments/assets/33464e76-1ec9-442f-a473-b4448075d297)
