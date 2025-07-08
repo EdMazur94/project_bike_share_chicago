@@ -14,7 +14,7 @@ Based on the data from the fictional company **Cyclistic**, this project aims to
 
 ## Contents of this repository
 
-- [`project_01.md`](./project_01.md: Full analysis in English
+- [`project_01.md`](./project_01.md): Full analysis in English
 - [`sql_eng.md`](./sql_eng.md): SQL queries used in this project
 - Dashboards, charts, and insights
 
