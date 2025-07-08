@@ -73,19 +73,21 @@ All SQL queries used in this analysis are available in this [complementary file]
 
 - **User distribution by type:**
 
-![image](https://github.com/user-attachments/assets/71b83bb2-225d-459e-81a7-77871909d134)
+![image](https://github.com/user-attachments/assets/1c01cf5b-459b-46d6-9619-6668eb9e4a2d)
 
 - **Trip time and bike type:**
 
-![image](https://github.com/user-attachments/assets/111b3e66-5cbb-4262-95c3-20f4bee46981)
+![image](https://github.com/user-attachments/assets/3d47641a-c460-4a26-9ef1-e5359fd9be55)
 
 - **Weekly usage behavior between members and casuals:** 
 
-![image](https://github.com/user-attachments/assets/d3cbc3a5-2508-4793-b864-c880b405dcc9)
+![image](https://github.com/user-attachments/assets/33464e76-1ec9-442f-a473-b4448075d297)
+
 
 - **Impact of seasonality on both groups:**
 
-![image](https://github.com/user-attachments/assets/70986fc6-0bbd-440c-9719-d87ec823cbeb)
+![image](https://github.com/user-attachments/assets/98de7152-66fd-4010-9363-eb158de10bdd)
+
 
 ## 6. Strategic Recommendations
 
