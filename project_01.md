@@ -86,7 +86,8 @@ All SQL queries used in this analysis are available in this [complementary file]
 
 - **Impact of seasonality on both groups:**
 
-![image](https://github.com/user-attachments/assets/98de7152-66fd-4010-9363-eb158de10bdd)
+![image](https://github.com/user-attachments/assets/053f7960-f34a-471c-ba08-aa8039a34a00)
+
 
 
 ## 6. Strategic Recommendations
