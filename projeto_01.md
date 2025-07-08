@@ -81,6 +81,10 @@ As consultas SQL criadas para esta análise estão disponíveis neste [arquivo c
 
 ![image](https://github.com/user-attachments/assets/111b3e66-5cbb-4262-95c3-20f4bee46981)
 
+- **Horários frequentes de uso das bicicletas**
+
+![image](https://github.com/user-attachments/assets/913b3655-ab03-4e28-a1b2-22f88eebbbb3)
+
 - **O comportamento de uso entre assinantes e casuais difere entre dias de semana e finais de semana:** 
 
 ![image](https://github.com/user-attachments/assets/d3cbc3a5-2508-4793-b864-c880b405dcc9)
